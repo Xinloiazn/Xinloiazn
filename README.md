@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Coding Practice Projects</b>
-  - [Applying Arrays concept to C language](https://github.com/xinloiazn/configure-ad)
+  - [Applying Arrays concept to C language](https://github.com/xinloiazn/c-bulbs)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/xinloiazn/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/xinloiazn/azure-network-protocols)
