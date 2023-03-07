@@ -14,6 +14,6 @@
 
 <h2>Connect with me!:</h2>
 
-[<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/jdang9656
