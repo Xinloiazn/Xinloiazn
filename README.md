@@ -5,6 +5,7 @@
 - <b>Coding Practice Projects</b>
   - [Learning C Language (VSCode)](https://github.com/xinloiazn/learning-c)
 - <b>Microsoft Azure</b>
+  - [Azure Sentinel (SIEM) - Exposing VM and Monitoring Global Attacks](https://github.com/xinloiazn/sentinel-cyberattacks)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/xinloiazn/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/xinloiazn/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
