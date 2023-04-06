@@ -13,6 +13,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/xinloiazn/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/xinloiazn/ticket-lifecycle)
 
+<h2>My Tryhackme Progress!:</h2>
+
+![Xinloiazn's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Xinloiazn.png)
+
 <h2>Connect with me!:</h2>
 
 [<img align="left" alt="Jimmy | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
