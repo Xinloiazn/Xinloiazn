@@ -15,7 +15,7 @@
 
 <h2>My Tryhackme Progress!:</h2>
 
-![Xinloiazn's tryhackme stats]()
+![Xinloiazn's tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/Xinloiazn.png)
 
 <h2>Connect with me!:</h2>
 
